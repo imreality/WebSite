@@ -26,6 +26,6 @@ JOIN US
 
 Any feedback is welcome!
 
-Our website is https://imreality.github.io/WebSite/
-Our twitter is https://twitter.com/reality_im
-Our email is imreality.project@gmail.com 
+* Our website is https://imreality.github.io/WebSite/
+* Our twitter is https://twitter.com/reality_im
+* Our email is imreality.project@gmail.com 
